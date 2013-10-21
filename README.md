@@ -1,7 +1,7 @@
 IOIO_PIR_MOTION_SENSOR
 ======================
 
-IOIO PIR MOTION SENSOR
+IOIO PIR MOTION SENSOR (Control the hardware by Android application and IOIO board)
 
 ## PIN MAP
 OUT = PIN 45  
