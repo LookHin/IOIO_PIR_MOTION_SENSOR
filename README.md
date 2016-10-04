@@ -1,4 +1,4 @@
-IOIO_PIR_MOTION_SENSOR
+IOIO_PIR_MOTION_SENSOR [No Maintenance]
 ======================
 
 IOIO PIR MOTION SENSOR (Control the hardware by Android application and IOIO board)
